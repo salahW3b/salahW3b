@@ -25,13 +25,6 @@
  ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## 🎶 **Music Addict**:
-
-<p align="center">
-  <strong>Favorite Song<strong> <br>
-  <A href="https://www.youtube.com/watch?v=PM82jeMR488" title="Vyok - Hell on Earth"><IMG src="https://i1.sndcdn.com/artworks-2h1cSFkuyZyObPbP-zAzkWQ-t500x500.jpg" border="0" ></A>
-</p>
-
 ## **__French Developper__**
   All my projet is private<br>
 </p>
