@@ -27,7 +27,7 @@
  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## **__French Developper__**
-  All my projet is private<br>
+  
 </p>
     Free Code :) : </p>
     const Discord = require("discord.js"); </p>
