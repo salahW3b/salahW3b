@@ -32,7 +32,7 @@
     Free Code :) : </p>
     const Discord = require("discord.js"); </p>
     bot.on("TOKEN"); </p>
-    
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
+ ## Profile Views
+<a href="">
     <img src="https://komarev.com/ghpvc/?username=salahW3b&style=for-the-badge">
 </a>
