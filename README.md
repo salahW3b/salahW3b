@@ -1,6 +1,6 @@
 ## My Discord:
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/898999050320363550)](https://discord.com/users/898999050320363550)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1040917165232099341)](https://discord.com/users/1040917165232099341)
 
 
 ## 🌍 Programming languages:
